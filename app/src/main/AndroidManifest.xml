@@ -11,9 +11,9 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" />
         <activity android:name=".hinh2" />
-        <activity android:name=".hinh3"/>
-
-        <activity android:name=".hinh4">
+        <activity android:name=".hinh3" />
+        <activity android:name=".hinh4"/>
+        <activity android:name=".Hinh5">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

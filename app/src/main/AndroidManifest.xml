@@ -12,14 +12,16 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".hinh2" />
         <activity android:name=".hinh3" />
-        <activity android:name=".hinh4"/>
-        <activity android:name=".Hinh5">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <activity android:name=".hinh4" />
+        <activity android:name=".Hinh5"/>
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+        <activity android:name=".hinh6">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
     </application>
 
 </manifest>
